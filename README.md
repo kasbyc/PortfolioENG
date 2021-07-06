@@ -11,6 +11,7 @@
 * [Screencast-O-Matic](https://screencast-o-matic.com/)- Screen Recorder & Video Editor
 * [HandBrake](https://handbrake.fr/) - Open Source Video Transcoder
 * [GitHub](https://github.com/)
+* [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
 
 
 ## Tech Stack
@@ -26,6 +27,8 @@
 
 ## Technical Books read
 
+
+* [Radosław Smilgin - Zawód tester](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
 
 ## Groups for knowledge gathering
@@ -44,6 +47,7 @@
 * Test Reports
 * Test Cases
 * Test Scenarios
+
 
 ## My Projects
 
