@@ -31,9 +31,12 @@
 * [Radosław Smilgin - Zawód tester](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
 
+
 ## Groups for knowledge gathering
 
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
 
 ## Blogs read
 
