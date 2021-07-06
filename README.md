@@ -15,7 +15,7 @@
 
 
 
-## Tech Stack
+## Tech Skills
 
 * SQL
 * C++
@@ -26,24 +26,24 @@
 * Regression testing
 * Test cases
 
-## Technical Books read
+## Books read
 
 
 * [Radosław Smilgin - Zawód tester](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
 
 
-## Groups for knowledge gathering
+## Groups on Facebook
 
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
 * [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
 
-## Blogs read
+## Blogs
 
+* [pwicherski.gitbook.io](pwicherski.gitbook.io/)
 * [testerzy.pl](http://testerzy.pl)
-* [testerka.pl](http://testerka.pl)
-* [toniebug.pl](https://www.toniebug.pl)
+* [testuj.pl](http://testuj.pl)
 
 ## My Test Documentation
 
