@@ -7,11 +7,12 @@
 
 ## Tools used in testing:
 
-* [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+* [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
 * [Screencast-O-Matic](https://screencast-o-matic.com/)- Screen Recorder & Video Editor
 * [HandBrake](https://handbrake.fr/) - Open Source Video Transcoder
 * [GitHub](https://github.com/)
-* [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
+* [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+
 
 
 ## Tech Stack
