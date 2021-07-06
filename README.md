@@ -24,7 +24,6 @@
 * Reporting bugs
 * Exploratory testing
 * Regression testing
-* Test cases
 
 ## Books read
 
