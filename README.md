@@ -3,6 +3,8 @@
 
 ## About me
 
+My name is Kasper Byczyński. I am an engineer in the field of Automation and Robotics at the Gdańsk University of Technology. I'm interested in broadly understood software testing. Currently, I'm educating myself on my own, developing my knowledge of testing and the tools used in it every day. I gain experience mainly on crowdtesting sites like TesterWork and uTest. So far, during testing, I have managed to report around 400 bugs and run around 150 test cases. On the TesterWork platform, I have the highest possible rank, i.e. Elite, while on uTest I have the Silver rank. Here, I would like to present my skills and knowledge gained so far.
+
 
 
 ## Tools used in testing:
@@ -24,6 +26,7 @@
 * Reporting bugs
 * Exploratory testing
 * Regression testing
+* Functional testing
 
 ## Books read
 
