@@ -55,5 +55,6 @@ My name is Kasper Byczyński. I am an engineer in the field of Automation and Ro
 * Test Scenarios
 
 
-## My Projects
+## JIRA Project's (you cannot set a public project in the free version)
+
 
