@@ -58,7 +58,7 @@ My name is Kasper Byczyński. I am an engineer in the field of Automation and Ro
 
 ## JIRA Project's (you cannot set a public project in the free version)
 
-## Sample Bug Reports
+## Sample Bug Report's
 
 * [Bug Reports](https://drive.google.com/file/d/15bqFYa1E5wUZz2hfTRBnRLESzX23_jyr/view?usp=sharing)
 
