@@ -21,6 +21,7 @@ My name is Kasper Byczyński. I am an engineer in the field of Automation and Ro
 
 * SQL
 * C++
+* GIT
 * Manual testing
 * Creating test cases
 * Reporting bugs
